@@ -1,0 +1,261 @@
+{
+  "availability": "Footfall and restaurant features through target quarter minus 2; 2025 held out; no target-quarter restaurant values used.",
+  "all_trade_footfall": {
+    "lag_only": {
+      "n": 6496,
+      "wape": 0.0585,
+      "mae": 47535.11,
+      "bias": -6474.92
+    },
+    "last_published": {
+      "n": 6496,
+      "wape": 0.0531,
+      "mae": 43108.84,
+      "bias": 7146.76
+    },
+    "plus_all_restaurant": {
+      "n": 6496,
+      "wape": 0.059,
+      "mae": 47936.13,
+      "bias": -4411.49
+    },
+    "plus_net_openings": {
+      "n": 6496,
+      "wape": 0.0588,
+      "mae": 47807.36,
+      "bias": -7331.14
+    },
+    "plus_openings_closures": {
+      "n": 6496,
+      "wape": 0.0588,
+      "mae": 47810.67,
+      "bias": -5972.51
+    },
+    "plus_store_stock": {
+      "n": 6496,
+      "wape": 0.059,
+      "mae": 47915.19,
+      "bias": -4167.39
+    }
+  },
+  "matched_place_footfall": {
+    "lag_only": {
+      "n": 40,
+      "wape": 0.0288,
+      "mae": 109692.82,
+      "bias": 18959.9
+    },
+    "last_published": {
+      "n": 40,
+      "wape": 0.0287,
+      "mae": 109121.68,
+      "bias": 68106.62
+    },
+    "plus_all_restaurant": {
+      "n": 40,
+      "wape": 0.0449,
+      "mae": 170638.47,
+      "bias": 127510.85
+    },
+    "plus_net_openings": {
+      "n": 40,
+      "wape": 0.0283,
+      "mae": 107689.78,
+      "bias": 5402.52
+    },
+    "plus_openings_closures": {
+      "n": 40,
+      "wape": 0.0403,
+      "mae": 153441.3,
+      "bias": 88646.13
+    },
+    "plus_store_stock": {
+      "n": 40,
+      "wape": 0.0457,
+      "mae": 173848.62,
+      "bias": 132453.62
+    }
+  },
+  "score": {
+    "lag_only": {
+      "n": 40,
+      "mae": 8.922,
+      "mean_spearman": 0.815,
+      "precision_at_3": 0.583,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "spearman": 0.9030303030303028,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "spearman": 0.5757575757575757,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "spearman": 0.9030303030303028,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "spearman": 0.8787878787878788,
+          "precision_at_3": 0.6666666666666666
+        }
+      ]
+    },
+    "last_published": {
+      "n": 40,
+      "mae": 10.559,
+      "mean_spearman": 0.901,
+      "precision_at_3": 0.75,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "spearman": 0.9665698144513026,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20252",
+          "spearman": 0.8060606060606059,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "spearman": 0.9151515151515152,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "spearman": 0.9151515151515152,
+          "precision_at_3": 1.0
+        }
+      ]
+    },
+    "plus_all_restaurant": {
+      "n": 40,
+      "mae": 12.728,
+      "mean_spearman": 0.827,
+      "precision_at_3": 0.833,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "spearman": 0.8666666666666665,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "spearman": 0.6,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20253",
+          "spearman": 0.9272727272727272,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20254",
+          "spearman": 0.9151515151515152,
+          "precision_at_3": 1.0
+        }
+      ]
+    },
+    "plus_net_openings": {
+      "n": 40,
+      "mae": 8.609,
+      "mean_spearman": 0.83,
+      "precision_at_3": 0.667,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "spearman": 0.9393939393939393,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20252",
+          "spearman": 0.6,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "spearman": 0.9030303030303028,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "spearman": 0.8787878787878788,
+          "precision_at_3": 0.6666666666666666
+        }
+      ]
+    },
+    "plus_openings_closures": {
+      "n": 40,
+      "mae": 11.509,
+      "mean_spearman": 0.815,
+      "precision_at_3": 0.667,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "spearman": 0.8666666666666665,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "spearman": 0.5757575757575757,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "spearman": 0.9393939393939393,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20254",
+          "spearman": 0.8787878787878788,
+          "precision_at_3": 0.6666666666666666
+        }
+      ]
+    },
+    "plus_store_stock": {
+      "n": 40,
+      "mae": 12.966,
+      "mean_spearman": 0.827,
+      "precision_at_3": 0.833,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "spearman": 0.8666666666666665,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "spearman": 0.6,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20253",
+          "spearman": 0.9272727272727272,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20254",
+          "spearman": 0.9151515151515152,
+          "precision_at_3": 1.0
+        }
+      ]
+    }
+  },
+  "eligible_places": [
+    "가로수길",
+    "건대",
+    "북촌",
+    "서촌",
+    "신촌",
+    "압구정",
+    "여의도",
+    "연남",
+    "이태원",
+    "홍대"
+  ]
+}

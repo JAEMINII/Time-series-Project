@@ -1,0 +1,71 @@
+{
+  "living": {
+    "last_available_month": {
+      "n": 228,
+      "areas": 19,
+      "mae": 0.0885,
+      "wape": 0.0577,
+      "bias": 0.0101
+    },
+    "same_month_last_year": {
+      "n": 228,
+      "areas": 19,
+      "mae": 0.0642,
+      "wape": 0.0419,
+      "bias": -0.0252
+    },
+    "sarimax_seasonal_ar1": {
+      "n": 228,
+      "areas": 19,
+      "mae": 0.0607,
+      "wape": 0.0396,
+      "bias": -0.0091
+    }
+  },
+  "mobility": {
+    "last_available_month": {
+      "n": 228,
+      "areas": 19,
+      "mae": 0.0184,
+      "wape": 0.0314,
+      "bias": 0.0028
+    },
+    "same_month_last_year": {
+      "n": 228,
+      "areas": 19,
+      "mae": 0.0261,
+      "wape": 0.0446,
+      "bias": 0.0093
+    },
+    "sarimax_seasonal_ar1": {
+      "n": 228,
+      "areas": 19,
+      "mae": 0.0252,
+      "wape": 0.043,
+      "bias": 0.01
+    }
+  },
+  "subway": {
+    "last_available_month": {
+      "n": 228,
+      "areas": 19,
+      "mae": 5433.4273,
+      "wape": 0.0704,
+      "bias": 35.7429
+    },
+    "same_month_last_year": {
+      "n": 228,
+      "areas": 19,
+      "mae": 3473.6953,
+      "wape": 0.045,
+      "bias": -1444.4534
+    },
+    "sarimax_seasonal_ar1": {
+      "n": 228,
+      "areas": 19,
+      "mae": 3309.759,
+      "wape": 0.0429,
+      "bias": -1081.8919
+    }
+  }
+}

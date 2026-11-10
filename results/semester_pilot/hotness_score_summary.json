@@ -1,0 +1,28 @@
+{
+  "eligible_places_2025Q4": 10,
+  "min_mapped_trade_areas": 3,
+  "persistent_hotspots_2025Q4": [],
+  "top_5": [
+    {
+      "search_area": "홍대",
+      "hotness_score": 57.62
+    },
+    {
+      "search_area": "이태원",
+      "hotness_score": 53.62
+    },
+    {
+      "search_area": "신촌",
+      "hotness_score": 52.12
+    },
+    {
+      "search_area": "연남",
+      "hotness_score": 47.12
+    },
+    {
+      "search_area": "여의도",
+      "hotness_score": 44.0
+    }
+  ],
+  "warning": "Footfall is an official estimate, not observed visits. Spatial boundaries provisional; score is a pilot and not externally validated."
+}

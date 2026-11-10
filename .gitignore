@@ -1,0 +1,18 @@
+# Local runtime, credentials, and caches
+tmp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

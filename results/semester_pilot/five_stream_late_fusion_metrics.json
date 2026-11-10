@@ -1,0 +1,268 @@
+{
+  "two_stream_forecast": {
+    "n": 40,
+    "score_mae": 10.581,
+    "mean_rank_spearman": 0.901,
+    "precision_at_3": 0.75,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.9665698144513026,
+        "precision_at_3": 1.0
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.8060606060606059,
+        "precision_at_3": 0.3333333333333333
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.9151515151515152,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.9151515151515152,
+        "precision_at_3": 1.0
+      }
+    ]
+  },
+  "five_stream_forecast": {
+    "last_available_month": {
+      "n": 40,
+      "score_mae": 10.4,
+      "mean_rank_spearman": 0.785,
+      "precision_at_3": 0.833,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "n": 10,
+          "spearman": 0.8424242424242423,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "n": 10,
+          "spearman": 0.4545454545454545,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20253",
+          "n": 10,
+          "spearman": 0.9636363636363635,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20254",
+          "n": 10,
+          "spearman": 0.8787878787878788,
+          "precision_at_3": 1.0
+        }
+      ]
+    },
+    "same_month_last_year": {
+      "n": 40,
+      "score_mae": 9.162,
+      "mean_rank_spearman": 0.717,
+      "precision_at_3": 0.667,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "n": 10,
+          "spearman": 0.7781190959104828,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "n": 10,
+          "spearman": 0.4545454545454545,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "n": 10,
+          "spearman": 0.8303030303030302,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "n": 10,
+          "spearman": 0.8060606060606059,
+          "precision_at_3": 1.0
+        }
+      ]
+    },
+    "sarimax_seasonal_ar1": {
+      "n": 40,
+      "score_mae": 9.499,
+      "mean_rank_spearman": 0.721,
+      "precision_at_3": 0.667,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "n": 10,
+          "spearman": 0.8545454545454544,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20252",
+          "n": 10,
+          "spearman": 0.41818181818181815,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "n": 10,
+          "spearman": 0.8545454545454544,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "n": 10,
+          "spearman": 0.7575757575757575,
+          "precision_at_3": 0.6666666666666666
+        }
+      ]
+    }
+  },
+  "five_stream_forecast_against_original_score": {
+    "last_available_month": {
+      "n": 40,
+      "score_mae": 9.06,
+      "mean_rank_spearman": 0.861,
+      "precision_at_3": 0.833,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "n": 10,
+          "spearman": 0.8666666666666665,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "n": 10,
+          "spearman": 0.6727272727272726,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20253",
+          "n": 10,
+          "spearman": 0.9393939393939393,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20254",
+          "n": 10,
+          "spearman": 0.9636363636363635,
+          "precision_at_3": 1.0
+        }
+      ]
+    },
+    "same_month_last_year": {
+      "n": 40,
+      "score_mae": 6.722,
+      "mean_rank_spearman": 0.901,
+      "precision_at_3": 0.75,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "n": 10,
+          "spearman": 0.9665698144513026,
+          "precision_at_3": 1.0
+        },
+        {
+          "quarter": "20252",
+          "n": 10,
+          "spearman": 0.8060606060606059,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "n": 10,
+          "spearman": 0.9151515151515152,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "n": 10,
+          "spearman": 0.9151515151515152,
+          "precision_at_3": 1.0
+        }
+      ]
+    },
+    "sarimax_seasonal_ar1": {
+      "n": 40,
+      "score_mae": 7.497,
+      "mean_rank_spearman": 0.836,
+      "precision_at_3": 0.583,
+      "quarters": [
+        {
+          "quarter": "20251",
+          "n": 10,
+          "spearman": 0.8666666666666665,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20252",
+          "n": 10,
+          "spearman": 0.7454545454545454,
+          "precision_at_3": 0.3333333333333333
+        },
+        {
+          "quarter": "20253",
+          "n": 10,
+          "spearman": 0.8545454545454544,
+          "precision_at_3": 0.6666666666666666
+        },
+        {
+          "quarter": "20254",
+          "n": 10,
+          "spearman": 0.8787878787878788,
+          "precision_at_3": 0.6666666666666666
+        }
+      ]
+    }
+  },
+  "sales_external_validation": {
+    "hotness_score": {
+      "n": 32,
+      "mean_spearman": 0.464,
+      "by_quarter": [
+        0.548,
+        0.357,
+        0.595,
+        0.357
+      ]
+    },
+    "five_stream_score": {
+      "n": 32,
+      "mean_spearman": 0.327,
+      "by_quarter": [
+        0.643,
+        0.024,
+        0.429,
+        0.214
+      ]
+    },
+    "pred_two_stream": {
+      "n": 32,
+      "mean_spearman": 0.577
+    },
+    "pred_five_last_available_month": {
+      "n": 32,
+      "mean_spearman": 0.542
+    },
+    "pred_five_same_month_last_year": {
+      "n": 32,
+      "mean_spearman": 0.577
+    },
+    "pred_five_sarimax_seasonal_ar1": {
+      "n": 32,
+      "mean_spearman": 0.518
+    }
+  }
+}

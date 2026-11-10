@@ -1,0 +1,57 @@
+{
+  "2024": {
+    "original_two": {
+      "n": 32,
+      "sales_mean_spearman": 0.607,
+      "sales_precision_at_3": 1.0
+    },
+    "all_three_context": {
+      "n": 32,
+      "sales_mean_spearman": 0.548,
+      "sales_precision_at_3": 0.833
+    },
+    "add_living": {
+      "n": 32,
+      "sales_mean_spearman": 0.619,
+      "sales_precision_at_3": 1.0
+    },
+    "add_mobility": {
+      "n": 32,
+      "sales_mean_spearman": 0.619,
+      "sales_precision_at_3": 1.0
+    },
+    "add_subway": {
+      "n": 32,
+      "sales_mean_spearman": 0.601,
+      "sales_precision_at_3": 1.0
+    }
+  },
+  "2025": {
+    "original_two": {
+      "n": 32,
+      "sales_mean_spearman": 0.464,
+      "sales_precision_at_3": 0.75
+    },
+    "all_three_context": {
+      "n": 32,
+      "sales_mean_spearman": 0.327,
+      "sales_precision_at_3": 0.667
+    },
+    "add_living": {
+      "n": 32,
+      "sales_mean_spearman": 0.423,
+      "sales_precision_at_3": 0.667
+    },
+    "add_mobility": {
+      "n": 32,
+      "sales_mean_spearman": 0.464,
+      "sales_precision_at_3": 0.75
+    },
+    "add_subway": {
+      "n": 32,
+      "sales_mean_spearman": 0.488,
+      "sales_precision_at_3": 0.833
+    }
+  },
+  "warning": "2024 can inform a pre-specified weight choice; 2025 is the held-out check. Small samples and provisional geography remain."
+}

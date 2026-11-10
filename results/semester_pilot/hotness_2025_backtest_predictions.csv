@@ -1,0 +1,241 @@
+﻿search_area,quarter,method,hotness_score,pred_score,trade_count
+가로수길,20251,last_available_quarter_score,37.75,29.125,4
+가로수길,20252,last_available_quarter_score,29.5,27.25,4
+가로수길,20253,last_available_quarter_score,26.125,37.75,4
+가로수길,20254,last_available_quarter_score,24.875,29.5,4
+건대,20251,last_available_quarter_score,37.25,32.0,3
+건대,20252,last_available_quarter_score,28.0,38.125,3
+건대,20253,last_available_quarter_score,39.125,37.25,3
+건대,20254,last_available_quarter_score,36.625,28.0,3
+북촌,20251,last_available_quarter_score,18.875,23.125,4
+북촌,20252,last_available_quarter_score,28.125,34.375,4
+북촌,20253,last_available_quarter_score,17.75,18.875,4
+북촌,20254,last_available_quarter_score,17.75,28.125,4
+서촌,20251,last_available_quarter_score,49.375,43.75,6
+서촌,20252,last_available_quarter_score,60.875,57.0,6
+서촌,20253,last_available_quarter_score,34.5,49.375,6
+서촌,20254,last_available_quarter_score,37.75,60.875,6
+신촌,20251,last_available_quarter_score,70.5,64.75,4
+신촌,20252,last_available_quarter_score,51.25,60.125,4
+신촌,20253,last_available_quarter_score,56.375,70.5,4
+신촌,20254,last_available_quarter_score,52.125,51.25,4
+압구정,20251,last_available_quarter_score,57.625,41.625,3
+압구정,20252,last_available_quarter_score,40.375,46.5,3
+압구정,20253,last_available_quarter_score,40.75,57.625,3
+압구정,20254,last_available_quarter_score,28.75,40.375,3
+여의도,20251,last_available_quarter_score,65.375,62.875,3
+여의도,20252,last_available_quarter_score,48.0,63.875,3
+여의도,20253,last_available_quarter_score,57.125,65.375,3
+여의도,20254,last_available_quarter_score,44.0,48.0,3
+연남,20251,last_available_quarter_score,52.875,36.875,3
+연남,20252,last_available_quarter_score,39.625,32.375,3
+연남,20253,last_available_quarter_score,48.625,52.875,3
+연남,20254,last_available_quarter_score,47.125,39.625,3
+이태원,20251,last_available_quarter_score,55.75,65.0,4
+이태원,20252,last_available_quarter_score,52.5,67.25,4
+이태원,20253,last_available_quarter_score,49.0,55.75,4
+이태원,20254,last_available_quarter_score,53.625,52.5,4
+홍대,20251,last_available_quarter_score,70.25,76.0,8
+홍대,20252,last_available_quarter_score,67.125,71.375,8
+홍대,20253,last_available_quarter_score,63.875,70.25,8
+홍대,20254,last_available_quarter_score,57.625,67.125,8
+가로수길,20251,same_quarter_last_year_score,37.75,32.5,4
+가로수길,20252,same_quarter_last_year_score,29.5,31.75,4
+가로수길,20253,same_quarter_last_year_score,26.125,29.125,4
+가로수길,20254,same_quarter_last_year_score,24.875,27.25,4
+건대,20251,same_quarter_last_year_score,37.25,49.375,3
+건대,20252,same_quarter_last_year_score,28.0,54.375,3
+건대,20253,same_quarter_last_year_score,39.125,32.0,3
+건대,20254,same_quarter_last_year_score,36.625,38.125,3
+북촌,20251,same_quarter_last_year_score,18.875,10.625,4
+북촌,20252,same_quarter_last_year_score,28.125,25.75,4
+북촌,20253,same_quarter_last_year_score,17.75,23.125,4
+북촌,20254,same_quarter_last_year_score,17.75,34.375,4
+서촌,20251,same_quarter_last_year_score,49.375,49.125,6
+서촌,20252,same_quarter_last_year_score,60.875,46.75,6
+서촌,20253,same_quarter_last_year_score,34.5,43.75,6
+서촌,20254,same_quarter_last_year_score,37.75,57.0,6
+신촌,20251,same_quarter_last_year_score,70.5,77.0,4
+신촌,20252,same_quarter_last_year_score,51.25,70.625,4
+신촌,20253,same_quarter_last_year_score,56.375,64.75,4
+신촌,20254,same_quarter_last_year_score,52.125,60.125,4
+압구정,20251,same_quarter_last_year_score,57.625,44.25,3
+압구정,20252,same_quarter_last_year_score,40.375,38.75,3
+압구정,20253,same_quarter_last_year_score,40.75,41.625,3
+압구정,20254,same_quarter_last_year_score,28.75,46.5,3
+여의도,20251,same_quarter_last_year_score,65.375,61.375,3
+여의도,20252,same_quarter_last_year_score,48.0,70.375,3
+여의도,20253,same_quarter_last_year_score,57.125,62.875,3
+여의도,20254,same_quarter_last_year_score,44.0,63.875,3
+연남,20251,same_quarter_last_year_score,52.875,48.375,3
+연남,20252,same_quarter_last_year_score,39.625,43.75,3
+연남,20253,same_quarter_last_year_score,48.625,36.875,3
+연남,20254,same_quarter_last_year_score,47.125,32.375,3
+이태원,20251,same_quarter_last_year_score,55.75,79.875,4
+이태원,20252,same_quarter_last_year_score,52.5,69.5,4
+이태원,20253,same_quarter_last_year_score,49.0,65.0,4
+이태원,20254,same_quarter_last_year_score,53.625,67.25,4
+홍대,20251,same_quarter_last_year_score,70.25,90.875,8
+홍대,20252,same_quarter_last_year_score,67.125,81.625,8
+홍대,20253,same_quarter_last_year_score,63.875,76.0,8
+홍대,20254,same_quarter_last_year_score,57.625,71.375,8
+가로수길,20251,same_month_last_year + last_available_quarter,37.75,45.75,4
+가로수길,20252,same_month_last_year + last_available_quarter,29.5,43.5,4
+가로수길,20253,same_month_last_year + last_available_quarter,26.125,41.125,4
+가로수길,20254,same_month_last_year + last_available_quarter,24.875,37.5,4
+건대,20251,same_month_last_year + last_available_quarter,37.25,41.75,3
+건대,20252,same_month_last_year + last_available_quarter,28.0,46.625,3
+건대,20253,same_month_last_year + last_available_quarter,39.125,38.375,3
+건대,20254,same_month_last_year + last_available_quarter,36.625,33.375,3
+북촌,20251,same_month_last_year + last_available_quarter,18.875,33.875,4
+북촌,20252,same_month_last_year + last_available_quarter,28.125,27.75,4
+북촌,20253,same_month_last_year + last_available_quarter,17.75,24.125,4
+북촌,20254,same_month_last_year + last_available_quarter,17.75,31.25,4
+서촌,20251,same_month_last_year + last_available_quarter,49.375,41.75,6
+서촌,20252,same_month_last_year + last_available_quarter,60.875,49.875,6
+서촌,20253,same_month_last_year + last_available_quarter,34.5,40.375,6
+서촌,20254,same_month_last_year + last_available_quarter,37.75,52.875,6
+신촌,20251,same_month_last_year + last_available_quarter,70.5,75.125,4
+신촌,20252,same_month_last_year + last_available_quarter,51.25,75.25,4
+신촌,20253,same_month_last_year + last_available_quarter,56.375,70.25,4
+신촌,20254,same_month_last_year + last_available_quarter,52.125,71.625,4
+압구정,20251,same_month_last_year + last_available_quarter,57.625,63.125,3
+압구정,20252,same_month_last_year + last_available_quarter,40.375,59.125,3
+압구정,20253,same_month_last_year + last_available_quarter,40.75,54.125,3
+압구정,20254,same_month_last_year + last_available_quarter,28.75,48.125,3
+여의도,20251,same_month_last_year + last_available_quarter,65.375,69.875,3
+여의도,20252,same_month_last_year + last_available_quarter,48.0,71.25,3
+여의도,20253,same_month_last_year + last_available_quarter,57.125,59.25,3
+여의도,20254,same_month_last_year + last_available_quarter,44.0,56.0,3
+연남,20251,same_month_last_year + last_available_quarter,52.875,50.875,3
+연남,20252,same_month_last_year + last_available_quarter,39.625,48.5,3
+연남,20253,same_month_last_year + last_available_quarter,48.625,56.375,3
+연남,20254,same_month_last_year + last_available_quarter,47.125,50.625,3
+이태원,20251,same_month_last_year + last_available_quarter,55.75,67.0,4
+이태원,20252,same_month_last_year + last_available_quarter,52.5,67.375,4
+이태원,20253,same_month_last_year + last_available_quarter,49.0,62.75,4
+이태원,20254,same_month_last_year + last_available_quarter,53.625,58.375,4
+홍대,20251,same_month_last_year + last_available_quarter,70.25,73.875,8
+홍대,20252,same_month_last_year + last_available_quarter,67.125,77.5,8
+홍대,20253,same_month_last_year + last_available_quarter,63.875,78.125,8
+홍대,20254,same_month_last_year + last_available_quarter,57.625,73.375,8
+가로수길,20251,same_month_last_year + ridge_lagged_stores,37.75,49.25,4
+가로수길,20252,same_month_last_year + ridge_lagged_stores,29.5,43.5,4
+가로수길,20253,same_month_last_year + ridge_lagged_stores,26.125,42.75,4
+가로수길,20254,same_month_last_year + ridge_lagged_stores,24.875,36.625,4
+건대,20251,same_month_last_year + ridge_lagged_stores,37.25,57.0,3
+건대,20252,same_month_last_year + ridge_lagged_stores,28.0,49.625,3
+건대,20253,same_month_last_year + ridge_lagged_stores,39.125,39.875,3
+건대,20254,same_month_last_year + ridge_lagged_stores,36.625,33.375,3
+북촌,20251,same_month_last_year + ridge_lagged_stores,18.875,34.75,4
+북촌,20252,same_month_last_year + ridge_lagged_stores,28.125,27.75,4
+북촌,20253,same_month_last_year + ridge_lagged_stores,17.75,25.25,4
+북촌,20254,same_month_last_year + ridge_lagged_stores,17.75,27.0,4
+서촌,20251,same_month_last_year + ridge_lagged_stores,49.375,46.875,6
+서촌,20252,same_month_last_year + ridge_lagged_stores,60.875,41.625,6
+서촌,20253,same_month_last_year + ridge_lagged_stores,34.5,40.375,6
+서촌,20254,same_month_last_year + ridge_lagged_stores,37.75,45.375,6
+신촌,20251,same_month_last_year + ridge_lagged_stores,70.5,85.25,4
+신촌,20252,same_month_last_year + ridge_lagged_stores,51.25,76.875,4
+신촌,20253,same_month_last_year + ridge_lagged_stores,56.375,72.5,4
+신촌,20254,same_month_last_year + ridge_lagged_stores,52.125,68.125,4
+압구정,20251,same_month_last_year + ridge_lagged_stores,57.625,69.5,3
+압구정,20252,same_month_last_year + ridge_lagged_stores,40.375,57.875,3
+압구정,20253,same_month_last_year + ridge_lagged_stores,40.75,54.5,3
+압구정,20254,same_month_last_year + ridge_lagged_stores,28.75,47.0,3
+여의도,20251,same_month_last_year + ridge_lagged_stores,65.375,71.875,3
+여의도,20252,same_month_last_year + ridge_lagged_stores,48.0,73.25,3
+여의도,20253,same_month_last_year + ridge_lagged_stores,57.125,67.75,3
+여의도,20254,same_month_last_year + ridge_lagged_stores,44.0,56.75,3
+연남,20251,same_month_last_year + ridge_lagged_stores,52.875,55.0,3
+연남,20252,same_month_last_year + ridge_lagged_stores,39.625,49.75,3
+연남,20253,same_month_last_year + ridge_lagged_stores,48.625,51.25,3
+연남,20254,same_month_last_year + ridge_lagged_stores,47.125,48.75,3
+이태원,20251,same_month_last_year + ridge_lagged_stores,55.75,80.0,4
+이태원,20252,same_month_last_year + ridge_lagged_stores,52.5,73.875,4
+이태원,20253,same_month_last_year + ridge_lagged_stores,49.0,65.875,4
+이태원,20254,same_month_last_year + ridge_lagged_stores,53.625,57.125,4
+홍대,20251,same_month_last_year + ridge_lagged_stores,70.25,89.375,8
+홍대,20252,same_month_last_year + ridge_lagged_stores,67.125,86.125,8
+홍대,20253,same_month_last_year + ridge_lagged_stores,63.875,79.75,8
+홍대,20254,same_month_last_year + ridge_lagged_stores,57.625,73.75,8
+가로수길,20251,sarimax_seasonal_ar1 + last_available_quarter,37.75,30.25,4
+가로수길,20252,sarimax_seasonal_ar1 + last_available_quarter,29.5,47.125,4
+가로수길,20253,sarimax_seasonal_ar1 + last_available_quarter,26.125,29.125,4
+가로수길,20254,sarimax_seasonal_ar1 + last_available_quarter,24.875,27.25,4
+건대,20251,sarimax_seasonal_ar1 + last_available_quarter,37.25,32.125,3
+건대,20252,sarimax_seasonal_ar1 + last_available_quarter,28.0,52.0,3
+건대,20253,sarimax_seasonal_ar1 + last_available_quarter,39.125,33.625,3
+건대,20254,sarimax_seasonal_ar1 + last_available_quarter,36.625,33.75,3
+북촌,20251,sarimax_seasonal_ar1 + last_available_quarter,18.875,29.0,4
+북촌,20252,sarimax_seasonal_ar1 + last_available_quarter,28.125,17.0,4
+북촌,20253,sarimax_seasonal_ar1 + last_available_quarter,17.75,24.875,4
+북촌,20254,sarimax_seasonal_ar1 + last_available_quarter,17.75,25.875,4
+서촌,20251,sarimax_seasonal_ar1 + last_available_quarter,49.375,40.875,6
+서촌,20252,sarimax_seasonal_ar1 + last_available_quarter,60.875,49.0,6
+서촌,20253,sarimax_seasonal_ar1 + last_available_quarter,34.5,41.125,6
+서촌,20254,sarimax_seasonal_ar1 + last_available_quarter,37.75,52.0,6
+신촌,20251,sarimax_seasonal_ar1 + last_available_quarter,70.5,56.125,4
+신촌,20252,sarimax_seasonal_ar1 + last_available_quarter,51.25,73.5,4
+신촌,20253,sarimax_seasonal_ar1 + last_available_quarter,56.375,56.0,4
+신촌,20254,sarimax_seasonal_ar1 + last_available_quarter,52.125,67.5,4
+압구정,20251,sarimax_seasonal_ar1 + last_available_quarter,57.625,40.25,3
+압구정,20252,sarimax_seasonal_ar1 + last_available_quarter,40.375,61.5,3
+압구정,20253,sarimax_seasonal_ar1 + last_available_quarter,40.75,43.375,3
+압구정,20254,sarimax_seasonal_ar1 + last_available_quarter,28.75,41.5,3
+여의도,20251,sarimax_seasonal_ar1 + last_available_quarter,65.375,60.875,3
+여의도,20252,sarimax_seasonal_ar1 + last_available_quarter,48.0,72.0,3
+여의도,20253,sarimax_seasonal_ar1 + last_available_quarter,57.125,46.75,3
+여의도,20254,sarimax_seasonal_ar1 + last_available_quarter,44.0,52.375,3
+연남,20251,sarimax_seasonal_ar1 + last_available_quarter,52.875,34.625,3
+연남,20252,sarimax_seasonal_ar1 + last_available_quarter,39.625,53.0,3
+연남,20253,sarimax_seasonal_ar1 + last_available_quarter,48.625,50.0,3
+연남,20254,sarimax_seasonal_ar1 + last_available_quarter,47.125,43.75,3
+이태원,20251,sarimax_seasonal_ar1 + last_available_quarter,55.75,65.75,4
+이태원,20252,sarimax_seasonal_ar1 + last_available_quarter,52.5,63.625,4
+이태원,20253,sarimax_seasonal_ar1 + last_available_quarter,49.0,56.0,4
+이태원,20254,sarimax_seasonal_ar1 + last_available_quarter,53.625,54.75,4
+홍대,20251,sarimax_seasonal_ar1 + last_available_quarter,70.25,59.5,8
+홍대,20252,sarimax_seasonal_ar1 + last_available_quarter,67.125,78.25,8
+홍대,20253,sarimax_seasonal_ar1 + last_available_quarter,63.875,71.75,8
+홍대,20254,sarimax_seasonal_ar1 + last_available_quarter,57.625,65.25,8
+가로수길,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,37.75,33.75,4
+가로수길,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,29.5,47.125,4
+가로수길,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,26.125,30.75,4
+가로수길,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,24.875,26.375,4
+건대,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,37.25,47.375,3
+건대,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,28.0,55.0,3
+건대,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,39.125,35.125,3
+건대,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,36.625,33.75,3
+북촌,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,18.875,29.875,4
+북촌,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,28.125,17.0,4
+북촌,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,17.75,26.0,4
+북촌,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,17.75,21.625,4
+서촌,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,49.375,46.0,6
+서촌,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,60.875,40.75,6
+서촌,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,34.5,41.125,6
+서촌,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,37.75,44.5,6
+신촌,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,70.5,66.25,4
+신촌,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,51.25,75.125,4
+신촌,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,56.375,58.25,4
+신촌,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,52.125,64.0,4
+압구정,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,57.625,46.625,3
+압구정,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,40.375,60.25,3
+압구정,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,40.75,43.75,3
+압구정,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,28.75,40.375,3
+여의도,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,65.375,62.875,3
+여의도,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,48.0,74.0,3
+여의도,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,57.125,55.25,3
+여의도,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,44.0,53.125,3
+연남,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,52.875,38.75,3
+연남,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,39.625,54.25,3
+연남,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,48.625,44.875,3
+연남,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,47.125,41.875,3
+이태원,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,55.75,78.75,4
+이태원,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,52.5,70.125,4
+이태원,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,49.0,59.125,4
+이태원,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,53.625,53.5,4
+홍대,20251,sarimax_seasonal_ar1 + ridge_lagged_stores,70.25,75.0,8
+홍대,20252,sarimax_seasonal_ar1 + ridge_lagged_stores,67.125,86.875,8
+홍대,20253,sarimax_seasonal_ar1 + ridge_lagged_stores,63.875,73.375,8
+홍대,20254,sarimax_seasonal_ar1 + ridge_lagged_stores,57.625,65.625,8

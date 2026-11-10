@@ -1,0 +1,77 @@
+{
+  "search_three_month": {
+    "last_value": {
+      "n": 372,
+      "mae": 4.139,
+      "wape": 0.2122,
+      "bias": 0.922
+    },
+    "same_month_last_year": {
+      "n": 372,
+      "mae": 3.77,
+      "wape": 0.1932,
+      "bias": 1.971
+    },
+    "sarimax_seasonal_ar1": {
+      "n": 372,
+      "mae": 4.032,
+      "wape": 0.2067,
+      "bias": 0.841
+    }
+  },
+  "trade_footfall_next_quarter": {
+    "last_available_quarter": {
+      "n": 6496,
+      "mae": 43108.839,
+      "wape": 0.0531,
+      "bias": 7146.76
+    },
+    "ridge_lagged_stores": {
+      "n": 6496,
+      "mae": 47936.135,
+      "wape": 0.059,
+      "bias": -4411.492
+    },
+    "ridge_target_lags_only": {
+      "n": 6496,
+      "mae": 47535.105,
+      "wape": 0.0585,
+      "bias": -6474.918
+    },
+    "same_quarter_last_year": {
+      "n": 6496,
+      "mae": 64048.518,
+      "wape": 0.0788,
+      "bias": 16427.455
+    }
+  },
+  "trade_sales_next_quarter": {
+    "last_available_quarter": {
+      "n": 5772,
+      "mae": 18858.899,
+      "wape": 0.0991,
+      "bias": 677.113
+    },
+    "ridge_lagged_stores": {
+      "n": 5772,
+      "mae": 17241.159,
+      "wape": 0.0906,
+      "bias": -2050.41
+    },
+    "ridge_target_lags_only": {
+      "n": 5772,
+      "mae": 15737.264,
+      "wape": 0.0827,
+      "bias": -4664.442
+    },
+    "same_quarter_last_year": {
+      "n": 5772,
+      "mae": 17932.427,
+      "wape": 0.0942,
+      "bias": 5641.27
+    }
+  },
+  "complete_trade_footfall_series": 1624,
+  "complete_trade_sales_series": 1443,
+  "warning": "Search forecasts are for 31 named terms; footfall forecasts are for trade codes. A joined hotspot forecast requires a separate held-out evaluation."
+}

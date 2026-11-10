@@ -1,0 +1,38 @@
+{
+  "sales_validation": {
+    "n_place_quarters": 64,
+    "mean_cross_section_spearman": 0.536,
+    "quarter_correlations": {
+      "20241": 0.5,
+      "20242": 0.5,
+      "20243": 0.571,
+      "20244": 0.857,
+      "20251": 0.548,
+      "20252": 0.357,
+      "20253": 0.595,
+      "20254": 0.357
+    }
+  },
+  "search_weight_sensitivity": {
+    "mean_top3_overlap_40pct": 0.875,
+    "mean_top3_overlap_60pct": 0.875
+  },
+  "thresholds": {
+    "75": {
+      "quarters_above": 5,
+      "persistent_quarters": 2,
+      "persistent_2025": 0
+    },
+    "80": {
+      "quarters_above": 2,
+      "persistent_quarters": 1,
+      "persistent_2025": 0
+    },
+    "85": {
+      "quarters_above": 1,
+      "persistent_quarters": 0,
+      "persistent_2025": 0
+    }
+  },
+  "notes": "Sales is independent of score inputs but correlational, not a ground truth of popularity. Sensitivity is within the same provisional 10-area geography."
+}

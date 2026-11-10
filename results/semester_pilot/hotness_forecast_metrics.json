@@ -1,0 +1,230 @@
+{
+  "last_available_quarter_score": {
+    "observations": 40,
+    "places_per_quarter": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "score_mae": 8.153,
+    "mean_spearman": 0.821,
+    "mean_precision_at_3": 0.75,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.8424242424242423,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.8060606060606059,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.8909090909090909,
+        "precision_at_3": 1.0
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.7454545454545454,
+        "precision_at_3": 0.6666666666666666
+      }
+    ]
+  },
+  "same_month_last_year + last_available_quarter": {
+    "observations": 40,
+    "places_per_quarter": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "score_mae": 10.581,
+    "mean_spearman": 0.901,
+    "mean_precision_at_3": 0.75,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.9665698144513026,
+        "precision_at_3": 1.0
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.8060606060606059,
+        "precision_at_3": 0.3333333333333333
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.9151515151515152,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.9151515151515152,
+        "precision_at_3": 1.0
+      }
+    ]
+  },
+  "same_month_last_year + ridge_lagged_stores": {
+    "observations": 40,
+    "places_per_quarter": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "score_mae": 12.728,
+    "mean_spearman": 0.827,
+    "mean_precision_at_3": 0.833,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.8666666666666665,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.6,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.9272727272727272,
+        "precision_at_3": 1.0
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.9151515151515152,
+        "precision_at_3": 1.0
+      }
+    ]
+  },
+  "same_quarter_last_year_score": {
+    "observations": 40,
+    "places_per_quarter": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "score_mae": 10.756,
+    "mean_spearman": 0.745,
+    "mean_precision_at_3": 0.583,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.6969696969696969,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.6606060606060605,
+        "precision_at_3": 0.3333333333333333
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.8666666666666665,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.7575757575757575,
+        "precision_at_3": 0.6666666666666666
+      }
+    ]
+  },
+  "sarimax_seasonal_ar1 + last_available_quarter": {
+    "observations": 40,
+    "places_per_quarter": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "score_mae": 10.056,
+    "mean_spearman": 0.811,
+    "mean_precision_at_3": 0.667,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.7696969696969697,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.6484848484848483,
+        "precision_at_3": 0.3333333333333333
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.9118583155200968,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.9151515151515152,
+        "precision_at_3": 1.0
+      }
+    ]
+  },
+  "sarimax_seasonal_ar1 + ridge_lagged_stores": {
+    "observations": 40,
+    "places_per_quarter": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "score_mae": 10.009,
+    "mean_spearman": 0.785,
+    "mean_precision_at_3": 0.667,
+    "quarters": [
+      {
+        "quarter": "20251",
+        "n": 10,
+        "spearman": 0.7212121212121211,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20252",
+        "n": 10,
+        "spearman": 0.5393939393939393,
+        "precision_at_3": 0.3333333333333333
+      },
+      {
+        "quarter": "20253",
+        "n": 10,
+        "spearman": 0.9393939393939393,
+        "precision_at_3": 0.6666666666666666
+      },
+      {
+        "quarter": "20254",
+        "n": 10,
+        "spearman": 0.9393939393939393,
+        "precision_at_3": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "source": "https://data.seoul.go.kr/dataList/OA-15568/S/1/datasetView.do",
+  "files": [
+    {
+      "quarter": "20231",
+      "rows": 1649,
+      "bytes": 389107,
+      "file": "data\\reference\\commercial_footfall\\footfall_20231.csv"
+    },
+    {
+      "quarter": "20232",
+      "rows": 1649,
+      "bytes": 389059,
+      "file": "data\\reference\\commercial_footfall\\footfall_20232.csv"
+    },
+    {
+      "quarter": "20233",
+      "rows": 1649,
+      "bytes": 388804,
+      "file": "data\\reference\\commercial_footfall\\footfall_20233.csv"
+    },
+    {
+      "quarter": "20234",
+      "rows": 1648,
+      "bytes": 388936,
+      "file": "data\\reference\\commercial_footfall\\footfall_20234.csv"
+    },
+    {
+      "quarter": "20241",
+      "rows": 1649,
+      "bytes": 389084,
+      "file": "data\\reference\\commercial_footfall\\footfall_20241.csv"
+    },
+    {
+      "quarter": "20242",
+      "rows": 1649,
+      "bytes": 388740,
+      "file": "data\\reference\\commercial_footfall\\footfall_20242.csv"
+    },
+    {
+      "quarter": "20243",
+      "rows": 1648,
+      "bytes": 388334,
+      "file": "data\\reference\\commercial_footfall\\footfall_20243.csv"
+    },
+    {
+      "quarter": "20244",
+      "rows": 1649,
+      "bytes": 388724,
+      "file": "data\\reference\\commercial_footfall\\footfall_20244.csv"
+    },
+    {
+      "quarter": "20251",
+      "rows": 1650,
+      "bytes": 388741,
+      "file": "data\\reference\\commercial_footfall\\footfall_20251.csv"
+    },
+    {
+      "quarter": "20252",
+      "rows": 1649,
+      "bytes": 388507,
+      "file": "data\\reference\\commercial_footfall\\footfall_20252.csv"
+    },
+    {
+      "quarter": "20253",
+      "rows": 1648,
+      "bytes": 388140,
+      "file": "data\\reference\\commercial_footfall\\footfall_20253.csv"
+    },
+    {
+      "quarter": "20254",
+      "rows": 1648,
+      "bytes": 387979,
+      "file": "data\\reference\\commercial_footfall\\footfall_20254.csv"
+    }
+  ]
+}
